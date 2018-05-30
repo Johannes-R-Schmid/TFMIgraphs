@@ -1,0 +1,13 @@
+ipython
+numpy
+scipy
+matplotlib
+gdal
+osr
+ogr
+gdalconst
+mpltools
+rasterio
+geopandas
+shapely
+
