@@ -4,7 +4,6 @@ scipy
 matplotlib
 gdal
 osr
-gdalconst
 mpltools
 rasterio
 geopandas
